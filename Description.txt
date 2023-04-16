@@ -1,0 +1,10 @@
+This game is inspired by the old snake game, Snake Xenzia. However, this new version has a whole new story and plot behind. 
+When starting the game, the player has to move the cursor to move the snake, and at each level, there are different challenges.
+At the first two levels, the player has to find the key to open the door to rescue the snake's offspring in the middle of the maze.
+And at level 3, the last level, the player has to move the snake to eat the apples because it is tired after a period of finding its offspring.
+The last level will end when the snake has eaten 10 apples to reach the development of 100%.
+Note that, at the first two levels, the player should try to move the snake not to touch the walls of the maze. 
+If the snake touches a wall, the player will lose. It is the same in the last level, if the snake touches the grass while eating apple, the player will lose.
+
+
+
